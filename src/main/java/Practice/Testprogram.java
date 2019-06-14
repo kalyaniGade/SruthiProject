@@ -7,7 +7,7 @@ public class Testprogram {
 		System.out.println("Welcome to Sonarqube to find bugs");
 		
 		System.out.println("Check poll scm");
-		System.out.println("Check poll scm");
+		
 	}
 
 }
